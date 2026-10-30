@@ -1,5 +1,7 @@
 ---
+name: cell-lab-gene-maker
 description: "Build, read and repair .genome files for the mobile game Cell Lab. Handles both the legacy bare format (v95/v3055) and the Macro ZIP container (v3145/v3169). Draws growth trees and runs a structural simulation (connected bodies, composition ratios, flagella dying at birth, misalignment). Triggers: make a cell, build a genome, this genome will not open, import failed, convert format, what will this genome grow into, 做个细胞, 造个基因, 这个基因打不开, 导入失败, 转换格式."
+license: MIT
 ---
 
 # Cell Lab Gene Maker v2.1

@@ -1,4 +1,8 @@
-# Cell Lab 基因制作器
+<h1 align="center">Cell Lab 基因制作器</h1>
+
+<p align="center">
+  <a href="README.md"><b>中文</b></a> ｜ <a href="README.en.md">English</a>
+</p>
 
 > **本项目内容由 AI 生成，生成模型为 DeepSeek V4.1flash1017。**
 > 代码与文档均为模型输出，经实际基因文件导入游戏验证；使用时请自行判断。

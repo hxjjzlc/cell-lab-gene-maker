@@ -4,11 +4,6 @@ description: "为手机游戏《细胞实验室 / Cell Lab》制作、读取、�
 icon: wrench_and_screwdriver
 ---
 
----
-name: celllab-gene-maker
-description: "为手机游戏《细胞实验室 / Cell Lab》制作、读取、修复 .genome 基因组文件。同时支持旧版裸格式（v95/v3055）和 Macro 改版的新版 ZIP 容器（v3145/v3169）。能画生长树、做结构模拟（整体划分、组成比例、鞭毛即死、错位检测）。当用户说\"做个细胞\"\"造个基因\"\"这个基因打不开\"\"导入失败\"\"转换格式\"\"这基因会长成什么样\"时使用。单文件核心零依赖，Node / 浏览器 / App 内置 JS 引擎都能跑。"
----
-
 # Cell Lab 基因制作器 v2.1
 
 配方 JSON ↔ `.genome` 二进制，双向。**两代格式都支持**：

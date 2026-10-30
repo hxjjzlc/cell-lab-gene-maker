@@ -1,0 +1,21 @@
+{
+  "name": "捕食者",
+  "modes": [
+    {
+      "type": "devorocyte",
+      "color": [0.85, 0.15, 0.2],
+      "splitMass": 2.2,
+      "children": [1, 2],
+      "makeAdhesin": true,
+      "child1Angle": 0,
+      "child2Angle": 0
+    },
+    {
+      "type": "flagellocyte",
+      "color": [0.95, 0.75, 0.2],
+      "swimForce": 0.8,
+      "splitMass": 3.672,
+      "children": [2, 2]
+    }
+  ]
+}

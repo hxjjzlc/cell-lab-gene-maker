@@ -1,0 +1,14 @@
+{
+  "name": "光合聚落",
+  "modes": [
+    {
+      "type": "photocyte",
+      "color": [0.2, 0.85, 0.35],
+      "splitMass": 2.4,
+      "children": [1, 1],
+      "makeAdhesin": true,
+      "child1Angle": 180,
+      "child2Angle": 0
+    }
+  ]
+}

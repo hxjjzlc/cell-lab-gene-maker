@@ -1,0 +1,21 @@
+{
+  "name": "简易游泳者",
+  "modes": [
+    {
+      "type": "phagocyte",
+      "color": [0.75, 0.9, 0.35],
+      "splitMass": 2.5,
+      "children": [1, 2],
+      "makeAdhesin": true,
+      "child1Angle": 0,
+      "child2Angle": 0
+    },
+    {
+      "type": "flagellocyte",
+      "color": [0.95, 0.55, 0.2],
+      "swimForce": 0.6,
+      "splitMass": 3.672,
+      "children": [2, 2]
+    }
+  ]
+}

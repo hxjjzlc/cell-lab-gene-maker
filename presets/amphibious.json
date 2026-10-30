@@ -1,0 +1,28 @@
+{
+  "name": "两栖型：光下光合，暗处游走",
+  "modes": [
+    {
+      "type": "stemocyte",
+      "color": [0.6, 0.6, 0.6],
+      "splitMass": 2.0,
+      "children": [2, 3],
+      "stemThreshold1": 0.5,
+      "makeAdhesin": true
+    },
+    {
+      "type": "photocyte",
+      "color": [0.15, 0.9, 0.3],
+      "splitMass": 2.6,
+      "children": [1, 1],
+      "makeAdhesin": true,
+      "child1Angle": 180
+    },
+    {
+      "type": "flagellocyte",
+      "color": [0.95, 0.6, 0.25],
+      "swimForce": 0.55,
+      "splitMass": 3.672,
+      "children": [3, 3]
+    }
+  ]
+}
